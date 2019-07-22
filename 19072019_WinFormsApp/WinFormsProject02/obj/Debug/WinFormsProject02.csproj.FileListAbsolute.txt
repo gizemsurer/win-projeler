@@ -1,0 +1,10 @@
+C:\Users\Section1\source\repos\19072019_WinFormsApp\WinFormsProject02\bin\Debug\WinFormsProject02.exe.config
+C:\Users\Section1\source\repos\19072019_WinFormsApp\WinFormsProject02\bin\Debug\WinFormsProject02.exe
+C:\Users\Section1\source\repos\19072019_WinFormsApp\WinFormsProject02\bin\Debug\WinFormsProject02.pdb
+C:\Users\Section1\source\repos\19072019_WinFormsApp\WinFormsProject02\obj\Debug\WinFormsProject02.csprojAssemblyReference.cache
+C:\Users\Section1\source\repos\19072019_WinFormsApp\WinFormsProject02\obj\Debug\WinFormsProject02.Form1.resources
+C:\Users\Section1\source\repos\19072019_WinFormsApp\WinFormsProject02\obj\Debug\WinFormsProject02.Properties.Resources.resources
+C:\Users\Section1\source\repos\19072019_WinFormsApp\WinFormsProject02\obj\Debug\WinFormsProject02.csproj.GenerateResource.cache
+C:\Users\Section1\source\repos\19072019_WinFormsApp\WinFormsProject02\obj\Debug\WinFormsProject02.csproj.CoreCompileInputs.cache
+C:\Users\Section1\source\repos\19072019_WinFormsApp\WinFormsProject02\obj\Debug\WinFormsProject02.exe
+C:\Users\Section1\source\repos\19072019_WinFormsApp\WinFormsProject02\obj\Debug\WinFormsProject02.pdb
